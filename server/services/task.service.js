@@ -1,6 +1,6 @@
 
 
-import TaskRepository from "../repositories/comment.task.js";
+import TaskRepository from "../repositories/task.repository.js";
 import BaseService from "./base.service.js";
 
 class TaskService extends BaseService {
